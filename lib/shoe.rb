@@ -8,7 +8,7 @@ class Shoe
  
   def cobble
     puts "The show has been repaired."
-    @condition = new
+    @condition = new 
   end
  
 end
